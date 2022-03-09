@@ -76,16 +76,16 @@ export default function Sidebar() {
             <h3 className="sidebarTitle">Staff</h3>
             <ul className="sidebarList">
               <li className="sidebarListItem active">
-                 <LineStyle className="sidebarIcon" />
-                 Home
+                 <WorkOutline className="sidebarIcon" />
+                 Manage
                  </li>
                  <li className="sidebarListItem">
                  <Analytics className="sidebarIcon" />
                  Analytics
                  </li>
                  <li className="sidebarListItem">
-                 <TrendingUp className="sidebarIcon" />
-                 Trending up
+                 <Report className="sidebarIcon" />
+                    Report
                  </li>
                </ul>  
             </div>
